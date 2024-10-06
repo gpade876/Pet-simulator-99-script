@@ -1,5 +1,4 @@
 # Pet Simulator 99 Script 2024 Elemental World UPDATE [PS99]
-# SCRIPT:
 
 **script: loadstring(game:HttpGet('https://raw.githubusercontent.com/sevastyann/script/main/.lua'))()**
 
